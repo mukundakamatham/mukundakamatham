@@ -1,10 +1,18 @@
 ### Hi there 👋
 
+hi, i'm mukunda, a passionate  full stack web developer and a freelance software engineer from india.
+my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+
+
 <!--
 **mukundakamatham/mukundakamatham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+🧑‍💻 I’m looking to collaborate on open source projects
 Here are some ideas to get you started:
-
+😄 Pronouns: he/him/his
+⚡ Fun fact: I have a pet bunny named Nikku 🐰
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
