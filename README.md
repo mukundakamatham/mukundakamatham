@@ -1,9 +1,3 @@
-### Hi there 👋
-
-hi, i'm mukunda, a passionate  full stack web developer and a freelance software engineer from india.
-my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
 
@@ -22,8 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm mukunda</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
+<h3 align="center">A passionate full stack web developer and a freelance software engineer from india</h3>
+<h5>my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.</h5>
+<h5>
+i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h5>
 - 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **react , express**
