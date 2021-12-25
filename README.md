@@ -76,6 +76,8 @@ Here are some ideas to get you started:
 <!--<a href="https://github.com/mukundakamatham/github-readme-activity-graph"><img alt="mukundakamatham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mukundakamatham&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
 
 <a href="https://github.com/mukundakamatham/github-readme-activity-graph"><img alt="Mukundh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mukundakamatham&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/dharmeshrao/github-readme-activity-graph"><img alt="dharmeshrao's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dharmeshrao&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
