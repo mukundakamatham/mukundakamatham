@@ -70,6 +70,11 @@ Here are some ideas to get you started:
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
+<p align="center">
+    <a href="https://github.com/mukundakamatham/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mukundh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mukundakamatham&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 <br/>
 <br/>
@@ -77,7 +82,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/mukundakamatham/github-readme-activity-graph"><img alt="Mukundh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mukundakamatham&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<a href="https://github.com/dharmeshrao/github-readme-activity-graph"><img alt="dharmeshrao's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dharmeshrao&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
 
