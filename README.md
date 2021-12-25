@@ -84,3 +84,9 @@ Here are some ideas to get you started:
 
 <br/>
 <br/>
+
+## ❤ Views and Followers
+<a href="https://github.com/mukundakamatham/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=mukundakamatham">
+</a>
+<a href="https://github.com/mukundakamatham?tab=followers"><img src="https://img.shields.io/github/followers/mukundakamatham?label=Followers&style=social" alt="GitHub Badge"></a>
