@@ -55,24 +55,10 @@ Here are some ideas to get you started:
 <br/>
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukundakamatham&show_icons=true&locale=en&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="vishal-080" /></p>-->
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mukundakamatham&show_icons=true&locale=en&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="vishal-080" /></p>-->
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukundakamatham&theme=dark" alt="vishal-080" /></p>
 
 ## 📊 My Github Stats
