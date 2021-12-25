@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukundakamatham&show_icons=true&locale=en&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="vishal-080" /></p>-->
+<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=mukundakamatham&show_icons=true&locale=en&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="vishal-080" /></p>
 <br/>
 <br/>
 <br/>
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mukundakamatham&show_icons=true&locale=en&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="vishal-080" /></p>
+<!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mukundakamatham&show_icons=true&locale=en&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="vishal-080" /></p>-->
 <br/>
 <br/>
 <br/>
