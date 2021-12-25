@@ -21,9 +21,10 @@ Here are some ideas to get you started:
   i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h4>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
 - 👨‍💻 Check my projects and portfolio **[Mukundh](https://mukundakamatham.github.io/csb-3o9c5/)**
-- <br>
+
+
 - 🌱 I’m currently learning **everything**
-- 👨‍💻 Check my projects and portfolio **[Dharmesh](https://portfolio-dharmeshrao.vercel.app/)**
+
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **mukundakamatham@gmail.com**
