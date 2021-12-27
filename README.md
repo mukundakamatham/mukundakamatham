@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --><h1 align="center">Hi 👋, I'm mukunda</h1>
 <h3 align="center">A passionate full stack web developer and a freelance software engineer from india</h3>
-<h5>my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.<br>
-  i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h5>
+<h4>my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.<br>
+  i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h4>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
-- 👨‍💻 Check my projects and portfolio  <a href="https://mukundakamatham.github.io/csb-3o9c5/">Mukundhportfolio</a>
+- 👨‍💻 Check my projects and portfolio  **<a href="https://mukundakamatham.github.io/csb-3o9c5/">Mukundhportfolio</a>**
 
 
 - 🌱 I’m currently learning **everything**
