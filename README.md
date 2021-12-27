@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate full stack web developer and a freelance software engineer from india</h3>
 <h4>my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.<br>
   i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</h4>
- <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
 - 👨‍💻 Check my projects and portfolio  <a href="https://mukundakamatham.github.io/csb-3o9c5/">Mukundhportfolio</a>
 
 
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **mukundakamatham@gmail.com**
 <h3 >Connect with me:</h3>
-<p >
+<p align="left" >
 <a href="https://linkedin.com/in/mukunda-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukunda-k" height="30" width="40" /></a>
 <a href="https://fb.com/mukesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mukesh kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/iammukundha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammukundha" height="30" width="40" /></a>
