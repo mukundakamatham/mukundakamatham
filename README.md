@@ -6,6 +6,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-mukundakamatham.github.io-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://mukundakamatham.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mukunda--k-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukunda-k)
 [![Email](https://img.shields.io/badge/Email-mukundh.k%40icloud.com-1B3A5C?style=for-the-badge&logo=apple&logoColor=white)](mailto:mukundh.k@icloud.com)
+[![Resume PDF](https://img.shields.io/badge/Resume-Download%20PDF-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://mukundakamatham.github.io/Mukunda_Resume.pdf)
+[![Resume DOCX](https://img.shields.io/badge/Resume-Download%20Word-2563A8?style=for-the-badge&logo=microsoftword&logoColor=white)](https://mukundakamatham.github.io/Mukunda_Resume.docx)
 
 </div>
 
@@ -91,7 +93,7 @@ Full Stack Developer with **5+ years** shipping production-grade applications ac
 
 I'm actively applying for Software Engineering roles across the **EU**. I hold a B.E. in Electronics & Communication Engineering and am **EU Blue Card eligible**. Available with **30–60 days notice**.
 
-> 📩 **mukundh.k@icloud.com** · 🔗 [linkedin.com/in/mukunda-k](https://linkedin.com/in/mukunda-k) · 🌐 [Portfolio](https://mukundakamatham.github.io)
+> 📩 **mukundh.k@icloud.com** · 🔗 [linkedin.com/in/mukunda-k](https://linkedin.com/in/mukunda-k) · 🌐 [Portfolio](https://mukundakamatham.github.io) · 📄 [Resume PDF](https://mukundakamatham.github.io/Mukunda_Resume.pdf)
 
 ---
 
