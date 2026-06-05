@@ -1,92 +1,100 @@
+<div align="center">
 
+# K Mukunda
+### SDE II · Full Stack Developer · Maritime Tech · React · Node.js · AI-assisted Dev
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-mukundakamatham.github.io-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://mukundakamatham.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mukunda--k-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukunda-k)
+[![Email](https://img.shields.io/badge/Email-mukundh.k%40icloud.com-1B3A5C?style=for-the-badge&logo=apple&logoColor=white)](mailto:mukundh.k@icloud.com)
 
-<!--
-**mukundakamatham/mukundakamatham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-🧑‍💻 I’m looking to collaborate on open source projects
-Here are some ideas to get you started:
-😄 Pronouns: he/him/his
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---><h1 align="center">Hi 👋, I'm mukunda</h1>
-<h3 align="center">A passionate full stack web developer and a freelance software engineer from india</h3>
-<p>my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.<br>
-  i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> 
+---
 
-- 👨‍💻 Check my projects and portfolio  <a href="https://mukundakamatham.github.io/csb-3o9c5/">Mukundhportfolio</a>
+### 👋 About Me
 
-- 🌱 I’m currently learning **everything**
+Full Stack Developer with **5+ years** shipping production-grade applications across **maritime technology**, **automotive enterprise**, and **food-tech SaaS**. Currently building [**GeoOne**](https://www.geoserves.com) — the maritime industry's first unified Voyage Operations Suite — at **Geoserve India** (Scorpio Marine Management).
 
-- 💬 Ask me about **anything**
+- 🚢 SDE II at **Geoserve India** — voyage optimisation, vessel performance, emissions compliance
+- 🚗 Previously at **Daimler Truck Innovation Center India** — enterprise apps for all Daimler Truck brands globally
+- 🏗️ Built a custom JS framework from scratch for **Frontm**'s maritime communication platform (Appiness)
+- 🤖 Active user of **GitHub Copilot, Cursor, Augment, Claude AI** · Integrated **OpenAI API** into production
+- 🏆 **Best Employee of the Year** — twice
+- 🇩🇪 **EU Blue Card eligible** · Open to relocation to Germany
 
-- 📫 How to reach me **mukundakamatham@gmail.com**
-<h3 >Connect with me:</h3>
-<p align="left" >
-<a href="https://linkedin.com/in/mukunda-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukunda-k" height="30" width="40" /></a>
-<a href="https://fb.com/mukesh kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mukesh kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/iammukundha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iammukundha" height="30" width="40" /></a>
-</p>
+---
 
-<!--<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
--->
-<br/>
-<br/>
-<span><h3 align="left">Languages and Tools:</h3><p align="center">
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="55" height="55"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55" marginleft="15"/>
-</p></span>
-<br/>
-<br/>
-<br/>
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukundakamatham&show_icons=true&locale=en&layout=compact&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515" alt="vishal-080" /></p>-->
-<br/>
+### 🛠️ Tech Stack
 
-<!--<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mukundakamatham&show_icons=true&locale=en&text_color=daf7dc&bg_color=151515&hide=css,html,php" alt="vishal-080" /></p>-->
-<br/>
+**Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
+**Front-End**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-## 📊 My Github Stats
+**Back-End & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-  <br/>
-  <p align="center">
-    <a href="https://github.com/mukundakamatham/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mukundh's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mukundakamatham&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-    <a href="https://github.com/mukundakamatham/github-readme-stats"><img alt="mukundh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mukundakamatham&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/mukundakamatham/github-readme-stats"><img alt="mukundh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundakamatham&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+**Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+**🤖 AI & Dev Tools**
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor_AI-6366f1?style=flat-square&logo=cursor&logoColor=white)
+![Augment](https://img.shields.io/badge/Augment-06b6d4?style=flat-square&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logoColor=white)
 
+---
 
+### 💼 Experience
 
-<br/>
-<br/>
-<!--<a href="https://github.com/mukundakamatham/github-readme-activity-graph"><img alt="mukundakamatham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mukundakamatham&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>-->
+| Role | Company | Period |
+|------|---------|--------|
+| **SDE II — Full Stack Developer** | Geoserve India (Scorpio Marine) | Jan 2025 – Present |
+| **Full Stack Developer** | Daimler Truck Innovation Center India | Sep 2023 – Jan 2025 |
+| **Full Stack Developer · Team Lead** | Appiness Interactive | Aug 2022 – Sep 2023 |
+| **Full Stack Developer** | Capgemini | Feb 2021 – Aug 2022 |
 
-<a href="https://github.com/mukundakamatham/github-readme-activity-graph"><img alt="Mukundh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=mukundakamatham&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+---
 
-<br/>
-<br/>
+### 📊 GitHub Stats
 
-## ❤ Views and Followers
-<a href="https://github.com/mukundakamatham/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=mukundakamatham">
-</a>
-<a href="https://github.com/mukundakamatham?tab=followers"><img src="https://img.shields.io/github/followers/mukundakamatham?label=Followers&style=social" alt="GitHub Badge"></a>
+<div align="center">
+
+![Mukunda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukundakamatham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukundakamatham&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+### 🌍 Looking for Opportunities in Germany
+
+I'm actively applying for Software Engineering roles in **Germany**. I hold a B.E. in Electronics & Communication Engineering and am **EU Blue Card eligible**. Available with **30–60 days notice**.
+
+> 📩 **mukundh.k@icloud.com** · 🔗 [linkedin.com/in/mukunda-k](https://linkedin.com/in/mukunda-k) · 🌐 [Portfolio](https://mukundakamatham.github.io)
+
+---
+
+<div align="center">
+<sub>⚡ Built with passion for clean code and great products</sub>
+</div>
