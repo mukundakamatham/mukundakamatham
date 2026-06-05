@@ -1,102 +1,111 @@
 <div align="center">
 
 # K Mukunda
-### SDE II · Full Stack Developer · Maritime Tech · React · Node.js · AI-assisted Dev
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mukundakamatham.github.io-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://mukundakamatham.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mukunda--k-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukunda-k)
-[![Email](https://img.shields.io/badge/Email-mukundh.k%40icloud.com-1B3A5C?style=for-the-badge&logo=apple&logoColor=white)](mailto:mukundh.k@icloud.com)
-[![Resume PDF](https://img.shields.io/badge/Resume-Download%20PDF-10B981?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://mukundakamatham.github.io/Mukunda_Resume.pdf)
-[![Resume DOCX](https://img.shields.io/badge/Resume-Download%20Word-2563A8?style=for-the-badge&logo=microsoftword&logoColor=white)](https://mukundakamatham.github.io/Mukunda_Resume.docx)
+**Senior Full Stack Engineer**
 
-</div>
+Building enterprise-scale maritime intelligence platforms and distributed systems<br/>
+at the intersection of geospatial technology, fleet management, and AI-assisted engineering.
 
----
+<br/>
 
-### 👋 About Me
-
-Full Stack Developer with **5+ years** shipping production-grade applications across **maritime technology**, **automotive enterprise**, and **food-tech SaaS**. Currently building [**GeoOne**](https://www.geoserves.com) — the maritime industry's first unified Voyage Operations Suite — at **Geoserve India** (Scorpio Marine Management).
-
-- 🚢 SDE II at **Geoserve India** — voyage optimisation, vessel performance, emissions compliance
-- 🚗 Previously at **Daimler Truck Innovation Center India** — enterprise apps for all Daimler Truck brands globally
-- 🏗️ Built a custom JS framework from scratch for **Frontm**'s maritime communication platform (Appiness)
-- 🤖 Active user of **GitHub Copilot, Cursor, Augment, Claude AI** · Integrated **OpenAI API** into production
-- 🏆 **Best Employee of the Year** — twice
-- 🇪🇺 **EU Blue Card eligible** · Open to relocation across the EU
-
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-**Front-End**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-**Back-End & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**🤖 AI & Dev Tools**
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor_AI-6366f1?style=flat-square&logo=cursor&logoColor=white)
-![Augment](https://img.shields.io/badge/Augment-06b6d4?style=flat-square&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_AI-CC785C?style=flat-square&logoColor=white)
-
----
-
-### 💼 Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| **SDE II — Full Stack Developer** | Geoserve India (Scorpio Marine) | Jan 2025 – Present |
-| **Full Stack Developer** | Daimler Truck Innovation Center India | Sep 2023 – Jan 2025 |
-| **Full Stack Developer · Team Lead** | Appiness Interactive | Aug 2022 – Sep 2023 |
-| **Full Stack Developer** | Capgemini | Feb 2021 – Aug 2022 |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Mukunda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukundakamatham&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mukundakamatham&layout=compact&theme=tokyonight&hide_border=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mukundakamatham.github.io-1d4ed8?style=flat-square&logo=vercel&logoColor=white)](https://mukundakamatham.github.io)&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mukunda--k-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mukunda-k)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-mukundh.k%40icloud.com-1d4ed8?style=flat-square&logo=apple&logoColor=white)](mailto:mukundh.k@icloud.com)&nbsp;&nbsp;
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-10b981?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://mukundakamatham.github.io/Mukunda_Resume.pdf)
 
 </div>
 
 ---
 
-### 🌍 Open to Opportunities Across the EU
+## What I'm Building
 
-I'm actively applying for Software Engineering roles across the **EU**. I hold a B.E. in Electronics & Communication Engineering and am **EU Blue Card eligible**. Available with **30–60 days notice**.
+I'm a **Senior Full Stack Engineer at Geoserve India**, contributing to **GeoOne** — the maritime industry's first unified Voyage Operations Suite. GeoOne covers the full operational lifecycle of a shipping voyage: route optimization, vessel performance monitoring, bunker procurement analytics, laytime management, port disbursements, and IMO emissions compliance (CII, EEXI, EU ETS) — all in a single platform used by global fleet operators.
 
-> 📩 **mukundh.k@icloud.com** · 🔗 [linkedin.com/in/mukunda-k](https://linkedin.com/in/mukunda-k) · 🌐 [Portfolio](https://mukundakamatham.github.io) · 📄 [Resume PDF](https://mukundakamatham.github.io/Mukunda_Resume.pdf)
+My work spans the full stack: React frontends with geospatial visualizations (Mapbox GL), Node.js APIs with real-time WebSocket data pipelines, PostgreSQL and TimescaleDB for time-series vessel data, and AWS infrastructure (ECS, S3, CloudFront). I'm an AI-native developer — I integrate GitHub Copilot, Cursor, Augment, Claude AI, and the OpenAI API into my daily engineering workflow and have shipped OpenAI integrations to production.
+
+Previously I spent 16 months at **Daimler Truck Innovation Center India**, building enterprise internal tooling used across all six Daimler Truck brands globally. Before that, I led a team of 8 engineers at **Appiness** and architected a custom JavaScript framework from scratch to power FrontM's maritime communication platform — now serving 1,000+ vessels and 50,000+ professionals globally.
+
+---
+
+## Featured Work
+
+### GeoOne — Voyage Operations Suite
+**Geoserve India · Production · 2025–Present**
+
+The maritime industry lacked a unified platform covering the full voyage operations lifecycle — operators worked across disconnected tools for planning, performance, bunker costs, and compliance.
+
+Built full-stack: React SPA for the operations dashboard, real-time vessel tracking with Mapbox GL, a Node.js API layer handling live performance telemetry via WebSocket, PostgreSQL + TimescaleDB for time-series vessel data, and AWS (ECS + CloudFront) for global delivery. The platform includes what-if scenario modeling for voyage routing, fuel consumption benchmarking, and automated CII/EEXI compliance reporting for IMO regulations.
+
+`React` `Node.js` `PostgreSQL` `TimescaleDB` `Mapbox GL` `WebSocket` `AWS ECS` `Docker` `IMO Compliance`
+
+---
+
+### Custom Maritime JS Framework
+**Appiness Interactive · Production · 2022–2023**
+
+FrontM needed to ship maritime communication products faster, but development velocity was bottlenecked by the absence of a shared engineering foundation. Architected and built a custom JavaScript framework from scratch — a Node.js runtime with AWS deployment infrastructure — standardising how the team built and shipped FrontM applications.
+
+Led a cross-functional team of 8 engineers. Designed modular, composable components that reduced time-to-feature for new maritime products. Introduced Agile ceremonies and architecture review processes. The platform now serves 1,000+ vessels and 50,000+ maritime professionals globally.
+
+`Node.js` `AWS` `Custom Runtime` `Team Lead (8 engineers)` `Maritime Platform`
+
+---
+
+### Daimler Truck Enterprise Platform
+**Daimler Truck Innovation Center India · Production · 2023–2025**
+
+Enterprise-grade internal tooling serving all six Daimler Truck brands across Europe, the Americas, and Asia. Built at DTICI — one of Daimler's largest engineering centres outside Germany — as part of a cross-functional team delivering Process Support Systems for connectivity, data management, and global operational workflows.
+
+Full-stack: React frontend with role-based access control (MSAL/Azure AD), Spring Boot Java/Kotlin backend services, Azure App Service hosting, SQL Server and MongoDB. Systems serve thousands of employees across Daimler's global business units.
+
+`React` `Spring Boot` `Java` `Kotlin` `Azure` `SQL Server` `MongoDB` `RBAC` `MSAL`
+
+---
+
+## Engineering Profile
+
+| | |
+|---|---|
+| **Current Focus** | Maritime intelligence · Geospatial systems · AI-assisted engineering |
+| **Specialisation** | Full-stack enterprise applications at global scale |
+| **Backend** | Node.js · Express · Spring Boot · Java · Kotlin |
+| **Frontend** | React · Next.js · TypeScript · Redux · Mapbox GL · D3.js |
+| **Cloud** | AWS (ECS, EC2, S3, Lambda, CloudFront) · Azure · Docker |
+| **Data** | PostgreSQL · TimescaleDB · MongoDB · MySQL · Redis |
+| **AI & Dev Tools** | GitHub Copilot · Cursor · Augment · Claude AI · OpenAI API |
+| **Industries** | Maritime Technology · Automotive Enterprise · SaaS |
+| **Experience** | 5+ years · 4 enterprise organisations · Technical Lead (8 engineers) |
+| **Recognition** | Best Employee of the Year × 2 · Creative Genius Award |
+
+---
+
+## GitHub Activity
+
+> Most of my production work lives in private organisation repositories — GeoOne, the Daimler internal tooling, and the FrontM platform are all under their respective org accounts. Happy to walk through architecture and code in a technical interview.
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=mukundakamatham&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&icon_color=3b82f6&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukundakamatham&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=3b82f6&text_color=94a3b8&langs_count=6" alt="Top Languages"/>
+
+</div>
+
+---
+
+## Open to Opportunities
+
+Actively exploring **Senior Full Stack**, **Senior React**, and **Technical Lead** roles across the EU and in remote-first product companies.
+
+🌍 &nbsp;Open to relocation across the **EU** — Germany, Netherlands, Austria, Belgium, Switzerland, and more  
+🇪🇺 &nbsp;**EU Blue Card eligible** — B.E. Electronics & Communication Engineering (VTU, 2019)  
+⏱️ &nbsp;Available with **30 days notice**  
+✉️ &nbsp;[mukundh.k@icloud.com](mailto:mukundh.k@icloud.com) · [linkedin.com/in/mukunda-k](https://linkedin.com/in/mukunda-k)  
+📄 &nbsp;[Portfolio](https://mukundakamatham.github.io) · [Resume PDF](https://mukundakamatham.github.io/Mukunda_Resume.pdf)
 
 ---
 
 <div align="center">
-<sub>⚡ Built with passion for clean code and great products</sub>
+<sub>Senior Full Stack Engineer · Maritime Intelligence · React · Node.js · Spring Boot · AWS · AI-assisted Development</sub>
 </div>
