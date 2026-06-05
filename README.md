@@ -20,7 +20,7 @@ Full Stack Developer with **5+ years** shipping production-grade applications ac
 - 🏗️ Built a custom JS framework from scratch for **Frontm**'s maritime communication platform (Appiness)
 - 🤖 Active user of **GitHub Copilot, Cursor, Augment, Claude AI** · Integrated **OpenAI API** into production
 - 🏆 **Best Employee of the Year** — twice
-- 🇩🇪 **EU Blue Card eligible** · Open to relocation to Germany
+- 🇪🇺 **EU Blue Card eligible** · Open to relocation across the EU
 
 ---
 
@@ -87,9 +87,9 @@ Full Stack Developer with **5+ years** shipping production-grade applications ac
 
 ---
 
-### 🌍 Looking for Opportunities in Germany
+### 🌍 Open to Opportunities Across the EU
 
-I'm actively applying for Software Engineering roles in **Germany**. I hold a B.E. in Electronics & Communication Engineering and am **EU Blue Card eligible**. Available with **30–60 days notice**.
+I'm actively applying for Software Engineering roles across the **EU**. I hold a B.E. in Electronics & Communication Engineering and am **EU Blue Card eligible**. Available with **30–60 days notice**.
 
 > 📩 **mukundh.k@icloud.com** · 🔗 [linkedin.com/in/mukunda-k](https://linkedin.com/in/mukunda-k) · 🌐 [Portfolio](https://mukundakamatham.github.io)
 
